@@ -1,0 +1,8 @@
+.listItem{
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding: 2rem 1.5rem;
+}
+.listItem p{
+    text-align: start;
+}
